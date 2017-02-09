@@ -24,9 +24,17 @@
 /* END MENU OPTIONS */
 
 /* BODY */
+.colDiv {
+	background-color: #999999;
+}
 .dummyText {
 	margin: 10px; 
 	background-color: #999999; 
 	padding: 10px
+}
+p > a {
+	color: blue; 
+	font-style: italic; 
+	font-size: 1.2em;
 }
 /* END BODY */
